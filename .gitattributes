@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 * linguist-vendored
-*.ipynb linguist-vendored=false
+*.py linguist-vendored=false
