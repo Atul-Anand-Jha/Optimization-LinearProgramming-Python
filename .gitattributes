@@ -3,4 +3,4 @@
 * linguist-vendored
 *.ipynb linguist-vendored=false, 
 * linguist-language
-*.ipynb linguist-language=Python(Jupyter-notebook)
+*.ipynb linguist-language=Python
