@@ -2,4 +2,4 @@
 * text=auto
 * linguist-vendored
 *.ipynb linguist-vendored=false
-*.ipynb linguist-language=Python(Jupyter-notebook)
+
