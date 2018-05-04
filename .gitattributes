@@ -1,5 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-static/* linguist-vendored
-*.ipynb linguist-vendored=false
-
+* linguist-vendored
+*.ipynb linguist-vendored=false, 
+* linguist-language
+*.ipynb linguist-language=Python(Jupyter-notebook)
